@@ -1,0 +1,1 @@
+The "Ball" file contain code which controls the creation and movement of the ball. The "Paddle" file contains code which controls the movement of the paddle. The "score" file contains code which maintain the score of the players. The "Main" file is the file which manages all the other file and make the game runnable
